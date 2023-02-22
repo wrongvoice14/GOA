@@ -6,10 +6,10 @@ body {
 h1 {
     text-align: center;
     font-size: 200px
-    color: black;
+    color: white;
 }
 .quote {
     text-align: center;
     font-size: 100px
-    color: black(0, 0, 0);
+    color: white;
 }
