@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://c1.wallpaperflare.com/preview/594/415/737/goa-beach-house-sea.jpg);
+    transparency: 50%;
+    font-family:'Times New Roman', Times, serif;
+    padding: auto;
+}
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255)
+}
+.quote {
+    text-align: center;
+    color: rgb(255, 255, 255)
+}
