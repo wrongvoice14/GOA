@@ -1,8 +1,7 @@
 body {
     background-image: url(https://github.com/wrongvoice14/GOA/blob/54c79a7018086403eeb1aefa0accd6a8ce267f20/teahub.io-goa-beach-wallpaper-2776460.jpg);
-    transparency: 50%;
     font-family:'Times New Roman', Times, serif;
-    padding: auto;
+    padding: 20PX;
 }
 h1 {
     text-align: center;
